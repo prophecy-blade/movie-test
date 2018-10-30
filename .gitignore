@@ -1,0 +1,4 @@
+# anything no need t import must include here
+# just name the file in one line will do
+# react gitignore which is outside or the client project
+node_modules
